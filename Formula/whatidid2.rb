@@ -3,8 +3,8 @@ class Whatidid2 < Formula
 
   desc "AI work digest — summarizes sessions across Hermes, Claude Code, Codex, Copilot, and more"
   homepage "https://github.com/th0mps0nty/whatidid"
-  url "https://files.pythonhosted.org/packages/2a/e2/db65f3148923f2c20e31d5aaa8988646a59f3fc6e84589474f3db5461d74/whatidid2-1.0.0.tar.gz"
-  sha256 "bb3a45b72111888910099423536d530c9a3be802cf9760a4f2a589b058e0953c"
+  url "https://files.pythonhosted.org/packages/81/59/adf636e43e33897cdd94c4269c0887ace59b9a6ef08d2dcc42c59ce9130b/whatidid2-1.0.1.tar.gz"
+  sha256 "6c5131671f02940f628874d22d326dcbd06ee7152251abc7b5fd1d81be28d186"
   license "MIT"
 
   depends_on "python@3.12"
